@@ -99,11 +99,9 @@ If you rename the repository, change the folder name in the `cd` command.
 Python, pandas, scikit-learn, matplotlib, seaborn, joblib, Streamlit, Hugging Face Hub, Google Colab.
 
 ## Team
-
 | Name | Student ID |
 |---|---|
 | Naina Mohammed Fathima Saafa | 20240040325 |
-| Nyimansata Fofana | 20240040316 |
-| Milenia Soares Goncalves | 20240040323 |
+
 
 Nusa Putra University, 2026.
