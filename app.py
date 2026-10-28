@@ -94,6 +94,8 @@ with tab_check:
         st.subheader("Result")
         if not check:
             st.info("Fill in the transaction details, or load an example, then click **Check transaction**.")
+        elif amount <= 0:
+            st.warning("Enter an amount greater than 0 to check a transaction.")
         else:
             row = pd.DataFrame([[
                 step, encoder.transform([tx_type])[0], amount,
